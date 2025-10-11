@@ -1,7 +1,7 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/seathasky/seathasky/refs/heads/main/projects.png" width="400" alt="Seathasky Logo"/><br>
-</h1>
-
+<h1 align="center">Seathasky Projects</h1>
+<p align="center">
+  Open-source creations spanning macOS utilities, Final Fantasy XIV plugins, and World of Warcraft addons.
+</p>
 
 ---
 

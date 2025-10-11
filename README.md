@@ -1,7 +1,10 @@
-<h1 align="center">Seathasky Projects</h1>
-<p align="center">
-  Open-source creations spanning macOS utilities, Final Fantasy XIV plugins, and World of Warcraft addons.
-</p>
+# Seathasky Projects
+
+Open-source creations spanning macOS utilities, Final Fantasy XIV plugins, and World of Warcraft addons.
+
+**Contact:** [seathasky@gmail.com](mailto:seathasky@gmail.com)  
+**Web:** [seathaskymusic.com](https://www.seathaskymusic.com/) • [SoundCloud](https://soundcloud.com/seathaskycr)
+
 
 ---
 

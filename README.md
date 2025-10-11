@@ -2,6 +2,7 @@ MacOS Projects:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marzent&repo=XIV-on-Mac)](https://github.com/marzent/XIV-on-Mac)
 
+
 World of Warcraft Addons: (Retail/Classic)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seathasky&repo=Consider)]([https://github.com/seathasky/Consider)
@@ -19,4 +20,9 @@ World of Warcraft Addons: (Private Servers)
 Final Fantasy 14 Dalamud Plugins:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seathasky&repo=ZoneLevelGuide)]([https://github.com/seathasky/ZoneLevelGuide)
+
+Misc/DEPRECATED:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seathasky&repo=Dell-Inspiron-7567-OC))]([https://github.com/seathasky/Dell-Inspiron-7567-OC)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seathasky&repo=FF14-MAC_ModSupport)](https://github.com/seathasky/FF14-MAC_ModSupport) 
 

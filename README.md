@@ -45,13 +45,6 @@
 
 ---
 
-### ✨ Notes
-- Each card dynamically updates with the latest GitHub data.  
-- Click any card to explore documentation, source code, and updates.  
-- Designed for clarity and aesthetics — using the **Tokyo Night** theme from [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats).
-
----
-
 <p align="center">
   <sub>Created by <b>Matthew Paul Centonze (Seathasky)</b> — 2025</sub>
 </p>

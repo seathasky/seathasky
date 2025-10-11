@@ -5,7 +5,6 @@ Open-source creations spanning macOS utilities, Final Fantasy XIV plugins, and W
 ---
 
 ### 📬 Contact
-- [seathasky@gmail.com](mailto:seathasky@gmail.com)  
 - [xivonmac@gmail.com](mailto:xivonmac@gmail.com)
 
 ### 🌐 Websites

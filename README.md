@@ -18,5 +18,5 @@ World of Warcraft Addons: (Private Servers)
 
 Final Fantasy 14 Dalamud Plugins:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seathasky&repo=oneLevelGuid)]([https://github.com/seathasky/ZoneLevelGuide)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seathasky&repo=ZoneLevelGuid)]([https://github.com/seathasky/ZoneLevelGuide)
 

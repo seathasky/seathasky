@@ -1,14 +1,9 @@
 <h1 align="center">
-  <img src="https://i1.sndcdn.com/avatars-P7IwORmXCPk5fSC3-b7tzZw-t1080x1080.jpg" width="120" height="120" style="border-radius:50%;" alt="Seathasky Logo"/><br>
-  Seathasky Projects
+  <img src="https://raw.githubusercontent.com/seathasky/seathasky/refs/heads/main/projects.png" width="600" alt="Seathasky Logo"/><br>
 </h1>
 
-<p align="center">
-  Open-source creations spanning macOS utilities, Final Fantasy XIV plugins, and World of Warcraft addons.
-</p>
 
 ---
-
 
 ## 🍎 macOS Projects
 
@@ -20,6 +15,7 @@
 
 [![ZoneLevelGuide](https://github-readme-stats.vercel.app/api/pin/?username=seathasky&repo=ZoneLevelGuide&theme=tokyonight)](https://github.com/seathasky/ZoneLevelGuide)
 
+---
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/WoW_icon.svg" width="28" height="28" style="vertical-align:middle; margin-right:6px;" alt="World of Warcraft logo"/> World of Warcraft Addons — Retail & Classic
 

@@ -2,8 +2,15 @@
 
 Open-source creations spanning macOS utilities, Final Fantasy XIV plugins, and World of Warcraft addons.
 
-**Contact:** [seathasky@gmail.com](mailto:seathasky@gmail.com)  
-**Web:** [seathaskymusic.com](https://www.seathaskymusic.com/) • [SoundCloud](https://soundcloud.com/seathaskycr)
+---
+
+### 📬 Contact
+- [xivonmac@gmail.com](mailto:xivonmac@gmail.com)
+
+### 🌐 Websites
+- [seathaskymusic.com](https://www.seathaskymusic.com/)  
+- [SoundCloud](https://soundcloud.com/seathaskycr)
+
 
 
 ---

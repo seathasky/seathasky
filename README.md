@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/seathasky/seathasky/refs/heads/main/projects.png" width="500" alt="Seathasky Logo"/><br>
+  <img src="https://raw.githubusercontent.com/seathasky/seathasky/refs/heads/main/projects.png" width="400" alt="Seathasky Logo"/><br>
 </h1>
 
 

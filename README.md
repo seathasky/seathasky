@@ -40,9 +40,11 @@ Open-source creations spanning macOS utilities, Final Fantasy XIV plugins, and W
 
 ---
 
-## <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/WoW_icon.svg" width="28" height="28" style="vertical-align:middle; margin-right:6px;" alt="World of Warcraft logo"/> World of Warcraft Addons — Private Servers
+## <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/WoW_icon.svg" width="28" height="28" style="vertical-align:middle; margin-right:6px;" alt="World of Warcraft logo"/> World of Warcraft Addons — Private Servers / Unreleased
 
 [![ModernMouseOver](https://github-readme-stats.vercel.app/api/pin/?username=seathasky&repo=ModernMouseOver&theme=tokyonight)](https://github.com/seathasky/ModernMouseOver)
+[![MattSimpleTweaks](https://github-readme-stats.vercel.app/api/pin/?username=seathasky&repo=MattSimpleTweaks&theme=tokyonight)](https://github.com/seathasky/MattSimpleTweaks)
+
 
 ---
 

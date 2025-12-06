@@ -31,6 +31,7 @@ Open-source creations spanning macOS utilities, Final Fantasy XIV plugins, and W
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/WoW_icon.svg" width="28" height="28" style="vertical-align:middle; margin-right:6px;" alt="World of Warcraft logo"/> World of Warcraft Addons — Retail & Classic
 
+[![Housing Tweaks](https://github-readme-stats.vercel.app/api/pin/?username=seathasky&repo=HousingTweaks&theme=tokyonight)](https://github.com/seathasky/HousingTweaks)
 [![Consider](https://github-readme-stats.vercel.app/api/pin/?username=seathasky&repo=Consider&theme=tokyonight)](https://github.com/seathasky/Consider)
 [![CWES](https://github-readme-stats.vercel.app/api/pin/?username=seathasky&repo=CWES&theme=tokyonight)](https://github.com/seathasky/CWES)
 [![MinimalMiniMap](https://github-readme-stats.vercel.app/api/pin/?username=seathasky&repo=MinimalMiniMap&theme=tokyonight)](https://github.com/seathasky/MinimalMiniMap)

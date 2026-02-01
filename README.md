@@ -36,7 +36,7 @@ Open-source developer focused on **macOS utilities**, **Final Fantasy XIV plugin
 | [![MattOOC](https://img.shields.io/badge/MattOOC-WoW_Addon-f7768e?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/seathasky/MattOOC) | Out of combat indicator |
 | [![HousingTweaks](https://img.shields.io/badge/HousingTweaks-WoW_Addon-f7768e?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/seathasky/HousingTweaks) | Quality of life housing improvements |
 | [![Consider](https://img.shields.io/badge/Consider-WoW_Addon-f7768e?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/seathasky/Consider) | Target difficulty indicator |
-| [![CWES](https://img.shields.io/badge/CWES-WoW_Addon-f7768e?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/seathasky/CWES) | Classic WoW Enhancement Suite |
+| [![CWES](https://img.shields.io/badge/CWES-WoW_Addon-f7768e?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/seathasky/CWES) | Classic Warrior Execute Sound |
 | [![MinimalMiniMap](https://img.shields.io/badge/MinimalMiniMap-WoW_Addon-f7768e?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/seathasky/MinimalMiniMap) | Clean minimap appearance |
 | [![Better Chat Sounds](https://img.shields.io/badge/Better_Chat_Sounds-WoW_Addon-f7768e?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/seathasky/Matts-Better-Chat-Sounds) | Improved chat notification sounds |
 | [![Action Bar Fonts](https://img.shields.io/badge/Action_Bar_Fonts-WoW_Addon-f7768e?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/seathasky/Matts-Action-Bar-Fonts) | Custom action bar font styling |

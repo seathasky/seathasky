@@ -31,8 +31,9 @@ Open-source developer focused on **macOS utilities**, **Final Fantasy XIV plugin
 
 ## 🛡️ World of Warcraft — Retail & Classic
 
-| Project | Description |
+| Project | Description | 
 | :------ | :---------- |
+| [![MattMinimalDPS](https://img.shields.io/badge/MattOOC-WoW_Addon-f7768e?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/seathasky/MattMinimalDPS) | A minimal skin for the Blizzard's Damage Meter |
 | [![MattOOC](https://img.shields.io/badge/MattOOC-WoW_Addon-f7768e?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/seathasky/MattOOC) | Out of combat indicator |
 | [![HousingTweaks](https://img.shields.io/badge/HousingTweaks-WoW_Addon-f7768e?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/seathasky/HousingTweaks) | Quality of life housing improvements |
 | [![Consider](https://img.shields.io/badge/Consider-WoW_Addon-f7768e?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/seathasky/Consider) | Target difficulty indicator |

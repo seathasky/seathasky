@@ -33,6 +33,7 @@ Open-source developer focused on **macOS utilities**, **Final Fantasy XIV plugin
 
 | Project | Description | 
 | :------ | :---------- |
+| [![MMBe](https://img.shields.io/badge/MBBe-WoW_Addon-f7768e?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/seathasky/MBBe) | An enhancement suite for MinimapButtonButton. |
 | [![MattMinimalDPS](https://img.shields.io/badge/MattMinimalDPS-WoW_Addon-f7768e?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/seathasky/MattMinimalDPS) | A minimal skin for the Blizzard's Damage Meter |
 | [![MattOOC](https://img.shields.io/badge/MattOOC-WoW_Addon-f7768e?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/seathasky/MattOOC) | Out of combat indicator |
 | [![HousingTweaks](https://img.shields.io/badge/HousingTweaks-WoW_Addon-f7768e?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/seathasky/HousingTweaks) | Quality of life housing improvements |

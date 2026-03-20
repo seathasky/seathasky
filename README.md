@@ -33,15 +33,16 @@ Open-source developer focused on **macOS utilities**, **Final Fantasy XIV plugin
 
 | Project | Description | 
 | :------ | :---------- |
-| [![MattMinimalDPS](https://img.shields.io/badge/MattMinimalDPS-WoW_Addon-f7768e?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/seathasky/MattMinimalDPS) | A minimal skin for the Blizzard's Damage Meter |
-| [![MattOOC](https://img.shields.io/badge/MattOOC-WoW_Addon-f7768e?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/seathasky/MattOOC) | Out of combat indicator |
+| [![Matt's Minimal Frames](https://img.shields.io/badge/MattMinimalFrames-WoW_Addon-f7768e?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/seathasky/MattMinimalFrames) | Minimal unit frame styling |
+| [![Matt's Action Bar Fonts & UI QoL](https://img.shields.io/badge/Action_Bar_Fonts-WoW_Addon-f7768e?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/seathasky/Matts-Action-Bar-Fonts) | Custom action bar font styling & QoL |
+| [![Matt's Talented](https://img.shields.io/badge/Matt's_Talented-WoW_Addon-f7768e?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/seathasky/MattsTalented) | Shows your current saved talent build in a minimal bar and minimal talent window. |
+| [![Matt's Minimal DPS](https://img.shields.io/badge/MattMinimalDPS-WoW_Addon-f7768e?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/seathasky/MattMinimalDPS) | A minimal skin for the Blizzard's Damage Meter |
+| [![Matt's OOC](https://img.shields.io/badge/MattOOC-WoW_Addon-f7768e?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/seathasky/MattOOC) | Out of combat indicator |
 | [![HousingTweaks](https://img.shields.io/badge/HousingTweaks-WoW_Addon-f7768e?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/seathasky/HousingTweaks) | Quality of life housing improvements |
 | [![Consider](https://img.shields.io/badge/Consider-WoW_Addon-f7768e?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/seathasky/Consider) | Target difficulty indicator |
 | [![CWES](https://img.shields.io/badge/CWES-WoW_Addon-f7768e?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/seathasky/CWES) | Classic Warrior Execute Sound |
 | [![MinimalMiniMap](https://img.shields.io/badge/MinimalMiniMap-WoW_Addon-f7768e?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/seathasky/MinimalMiniMap) | Clean minimap appearance |
 | [![Better Chat Sounds](https://img.shields.io/badge/Better_Chat_Sounds-WoW_Addon-f7768e?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/seathasky/Matts-Better-Chat-Sounds) | Improved chat notification sounds |
-| [![Action Bar Fonts](https://img.shields.io/badge/Action_Bar_Fonts-WoW_Addon-f7768e?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/seathasky/Matts-Action-Bar-Fonts) | Custom action bar font styling |
-| [![MattMinimalFrames](https://img.shields.io/badge/MattMinimalFrames-WoW_Addon-f7768e?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/seathasky/MattMinimalFrames) | Minimal unit frame styling |
 | [![MMBe](https://img.shields.io/badge/MBBe-WoW_Addon-f7768e?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/seathasky/MBBe) | An enhancement suite for MinimapButtonButton. |
 
 ---

@@ -11,6 +11,8 @@ Open-source developer focused on **macOS utilities**, **Final Fantasy XIV plugin
 [![CurseForge](https://img.shields.io/badge/CurseForge-Projects-orange?style=flat-square)](https://www.curseforge.com/members/seathasky/projects)
 [![Email](https://img.shields.io/badge/Email-xivonmac@gmail.com-red?style=flat-square)](mailto:xivonmac@gmail.com)
 
+[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/seathasky)
+
 ---
 
 ## 🍎 macOS Utilities

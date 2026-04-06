@@ -47,6 +47,8 @@ Open-source developer focused on **macOS utilities**, **Final Fantasy XIV plugin
 | [![MinimalMiniMap](https://img.shields.io/badge/MinimalMiniMap-WoW_Addon-f7768e?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/seathasky/MinimalMiniMap) | Clean minimap appearance |
 | [![Better Chat Sounds](https://img.shields.io/badge/Better_Chat_Sounds-WoW_Addon-f7768e?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/seathasky/Matts-Better-Chat-Sounds) | Improved chat notification sounds |
 | [![MMBe](https://img.shields.io/badge/MBBe-WoW_Addon-f7768e?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/seathasky/MBBe) | An enhancement suite for MinimapButtonButton. |
+| [![AyijeCDM-Extensions](https://img.shields.io/badge/AyijeCDM-Extensions-WoW_Addon-f7768e?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/seathasky/AyijeCDM-Extensions) | AyijeCDM Extensions adds extra quality-of-life features to AyijeCDM. |
+
 
 ---
 

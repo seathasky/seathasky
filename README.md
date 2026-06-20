@@ -23,6 +23,16 @@ Open-source developer focused on **macOS utilities**, **Final Fantasy XIV plugin
 
 ---
 
+## 🎛️ Ableton Projects
+
+| Project | Description |
+| :------ | :---------- |
+| [![Repeat-It](https://img.shields.io/badge/Repeat--It-Ableton_Project-000000?style=for-the-badge&logo=abletonlive&logoColor=white)](https://github.com/seathasky/Repeat-It) | An Ableton Live Extension for adding one effect to every track at once.. |
+
+---
+
+---
+
 ## ⚔️ Final Fantasy XIV — Dalamud Plugins
 
 | Project | Description |

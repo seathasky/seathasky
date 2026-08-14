@@ -1,10 +1,10 @@
-# 🌌 Seathasky Projects
+# Seathasky Projects
 
 Open-source developer focused on **macOS utilities**, **Final Fantasy XIV plugins**, and **World of Warcraft addons**.
 
 ---
 
-### 📬 Contact & Links
+### Contact & Links
 
 [![Website](https://img.shields.io/badge/Website-seathaskymusic.com-blue?style=flat-square)](https://www.seathaskymusic.com/)
 [![SoundCloud](https://img.shields.io/badge/SoundCloud-seathaskycr-orange?style=flat-square)](https://soundcloud.com/seathaskycr)
@@ -15,7 +15,7 @@ Open-source developer focused on **macOS utilities**, **Final Fantasy XIV plugin
 
 ---
 
-## 🍎 macOS Utilities
+## macOS Utilities
 
 | Project | Description |
 | :------ | :---------- |
@@ -23,7 +23,7 @@ Open-source developer focused on **macOS utilities**, **Final Fantasy XIV plugin
 
 ---
 
-## 🎛️ Ableton Projects
+## Ableton Projects
 
 | Project | Description |
 | :------ | :---------- |
@@ -33,7 +33,7 @@ Open-source developer focused on **macOS utilities**, **Final Fantasy XIV plugin
 
 ---
 
-## ⚔️ Final Fantasy XIV — Dalamud Plugins
+## Final Fantasy XIV — Dalamud Plugins
 
 | Project | Description |
 | :------ | :---------- |
@@ -41,7 +41,7 @@ Open-source developer focused on **macOS utilities**, **Final Fantasy XIV plugin
 
 ---
 
-## 🛡️ World of Warcraft — Retail & Classic
+## World of Warcraft — Retail & Classic
 
 | Project | Description | 
 | :------ | :---------- |
@@ -62,7 +62,7 @@ Open-source developer focused on **macOS utilities**, **Final Fantasy XIV plugin
 
 ---
 
-## 🧪 Legacy & Experimental Addons
+## Legacy & Experimental Addons
 
 | Project | Description |
 | :------ | :---------- |
@@ -71,7 +71,7 @@ Open-source developer focused on **macOS utilities**, **Final Fantasy XIV plugin
 
 ---
 
-## 🧩 Misc / Deprecated
+## Misc / Deprecated
 
 | Project | Description |
 | :------ | :---------- |

@@ -46,6 +46,7 @@ Open-source developer focused on **macOS utilities**, **Final Fantasy XIV plugin
 | Project | Description | 
 | :------ | :---------- |
 | [![Matt's Minimal Frames](https://img.shields.io/badge/MattMinimalFrames-WoW_Addon-f7768e?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/seathasky/MattMinimalFrames) | Minimal unit frame styling |
+| [![BabyAuras](https://img.shields.io/badge/BabyAuras-WoW_Addon-f7768e?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/seathasky/Baby-Auras) | CDM Manager |
 | [![Matt's 13/14](https://img.shields.io/badge/Matts_1314-WoW_Addon-f7768e?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/seathasky/Matts1314) | Simple trinket tracker |
 | [![Matt's Action Bar Fonts & UI QoL](https://img.shields.io/badge/Action_Bar_Fonts-WoW_Addon-f7768e?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/seathasky/Matts-Action-Bar-Fonts) | Custom action bar font styling & QoL |
 | [![Matt's Talented](https://img.shields.io/badge/Matt's_Talented-WoW_Addon-f7768e?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/seathasky/MattsTalented) | Shows your current saved talent build in a minimal bar and minimal talent window. |

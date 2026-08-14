@@ -62,12 +62,14 @@ Open-source developer focused on **macOS utilities**, **Final Fantasy XIV plugin
 
 ---
 
-## Legacy & Experimental Addons
+## Legacy, Experimental & Discontinued Addons
 
 | Project | Description |
 | :------ | :---------- |
 | [![ModernMouseOver](https://img.shields.io/badge/ModernMouseOver-Legacy-9aa5ce?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/seathasky/ModernMouseOver) | Mouseover casting framework |
 | [![MattSimpleTweaks](https://img.shields.io/badge/MattSimpleTweaks-Legacy-9aa5ce?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/seathasky/MattSimpleTweaks) | Simple UI tweaks collection |
+| [![AyijeCDM-Extensions](https://img.shields.io/badge/AyijeCDM--Extensions-WoW_Addon-f7768e?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/seathasky/AyijeCDM-Extensions) | AyijeCDM Extensions adds extra quality-of-life features to AyijeCDM. |
+| [![Matt's OOC](https://img.shields.io/badge/MattOOC-WoW_Addon-f7768e?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/seathasky/MattOOC) | Out of combat indicator |
 
 ---
 
@@ -76,5 +78,3 @@ Open-source developer focused on **macOS utilities**, **Final Fantasy XIV plugin
 | Project | Description |
 | :------ | :---------- |
 | [![Dell Inspiron 7567 OC](https://img.shields.io/badge/Dell_Inspiron_7567_OC-Hackintosh-bb9af7?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/seathasky/Dell-Inspiron-7567-OC) | OpenCore config for Dell Inspiron 7567 |
-| [![AyijeCDM-Extensions](https://img.shields.io/badge/AyijeCDM--Extensions-WoW_Addon-f7768e?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/seathasky/AyijeCDM-Extensions) | AyijeCDM Extensions adds extra quality-of-life features to AyijeCDM. |
-| [![Matt's OOC](https://img.shields.io/badge/MattOOC-WoW_Addon-f7768e?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/seathasky/MattOOC) | Out of combat indicator |

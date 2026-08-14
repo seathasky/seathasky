@@ -77,4 +77,7 @@ Open-source developer focused on **macOS utilities**, **Final Fantasy XIV plugin
 
 | Project | Description |
 | :------ | :---------- |
+| [![FF14 MAC ModSupport](https://img.shields.io/badge/FF14_MAC_ModSupport-Mod_Support-bb9af7?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/seathasky/FF14-MAC_ModSupport) | Mod support for Final Fantasy XIV on macOS |
 | [![Dell Inspiron 7567 OC](https://img.shields.io/badge/Dell_Inspiron_7567_OC-Hackintosh-bb9af7?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/seathasky/Dell-Inspiron-7567-OC) | OpenCore config for Dell Inspiron 7567 |
+
+

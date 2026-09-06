@@ -7,7 +7,7 @@ Open-source developer focused on **macOS utilities**, **Final Fantasy XIV plugin
 [![Website](https://img.shields.io/badge/Website-seathaskymusic.com-blue?style=flat-square)](https://www.seathaskymusic.com/)
 [![SoundCloud](https://img.shields.io/badge/SoundCloud-seathaskycr-orange?style=flat-square)](https://soundcloud.com/seathaskycr)
 [![CurseForge](https://img.shields.io/badge/CurseForge-Projects-orange?style=flat-square)](https://www.curseforge.com/members/seathasky/projects)
-[![Email](https://img.shields.io/badge/Email-xivonmac@gmail.com-red?style=flat-square)](mailto:seathasky@gmail.com)
+[![Email](https://img.shields.io/badge/Email-seathasky@gmail.com-red?style=flat-square)](mailto:seathasky@gmail.com)
 
 [![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/seathasky)
 

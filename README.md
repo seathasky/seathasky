@@ -11,6 +11,12 @@ Open-source developer focused on **macOS utilities**, **Final Fantasy XIV plugin
 
 [![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/seathasky)
 
+## Ableton Projects
+
+| Project | Description |
+| :------ | :---------- |
+| [![Repeat-It](https://img.shields.io/badge/Repeat--It-Ableton_Project-000000?style=for-the-badge&logo=abletonlive&logoColor=white)](https://github.com/seathasky/Repeat-It) | Ableton Live Extension for applying an effect across every track at once |
+
 ## macOS Game Launchers
 
 | Project | Description |
@@ -18,19 +24,19 @@ Open-source developer focused on **macOS utilities**, **Final Fantasy XIV plugin
 | [![XIV on Mac](https://img.shields.io/badge/MnM--on--Mac-MacOS-70a5fd?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/seathasky/MnM-on-Mac) | Run Monsters and Memories natively on macOS |
 | [![XIV on Mac](https://img.shields.io/badge/XIV--on--Mac-MacOS-70a5fd?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/marzent/XIV-on-Mac) | Run Final Fantasy XIV natively on macOS 
 
-## Ableton Projects
+## Monsters and Memories - Mods
 
 | Project | Description |
 | :------ | :---------- |
-| [![Repeat-It](https://img.shields.io/badge/Repeat--It-Ableton_Project-000000?style=for-the-badge&logo=abletonlive&logoColor=white)](https://github.com/seathasky/Repeat-It) | Ableton Live Extension for applying an effect across every track at once |
+| [![MnM Minimal UI](https://img.shields.io/badge/MnMMinimalUI-MNM_Mod-f97316?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/seathasky/MnM-Minimal-UI) | Minimal UI styling for MnM |
 
-## Final Fantasy XIV — Dalamud Plugins
+## Final Fantasy XIV - Dalamud Plugins
 
 | Project | Description |
 | :------ | :---------- |
 | [![ZoneLevelGuide](https://img.shields.io/badge/ZoneLevelGuide-Dalamud-70a5fd?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTV6Ii8+PC9zdmc+&logoColor=white)](https://github.com/seathasky/ZoneLevelGuide) | Zone level recommendations for FFXIV |
 
-## World of Warcraft — Retail & Classic
+## World of Warcraft — Addons
 
 | Project | Description |
 | :------ | :---------- |
@@ -47,7 +53,7 @@ Open-source developer focused on **macOS utilities**, **Final Fantasy XIV plugin
 | [![Better Chat Sounds](https://img.shields.io/badge/Better_Chat_Sounds-WoW_Addon-f7768e?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/seathasky/Matts-Better-Chat-Sounds) | Improved chat notification sounds |
 | [![MBBe](https://img.shields.io/badge/MBBe-WoW_Addon-f7768e?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/seathasky/MBBe) | Enhancement suite for MinimapButtonButton |
 
-## Legacy, Experimental & Discontinued
+## Legacy, Experimental & Discontinued WoW Addons
 
 | Project | Description |
 | :------ | :---------- |

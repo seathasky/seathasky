@@ -11,13 +11,27 @@ Open-source developer focused on **macOS utilities**, game addons and mods..
 
 [![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/seathasky)
 
-## Ableton Projects
+---
+
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Ableton_Live_logo.png" width="60"><br>
+  </p>
+
+Ableton Projects
 
 | Project | Description |
 | :------ | :---------- |
 | [![Repeat-It](https://img.shields.io/badge/Repeat--It-Ableton_Project-000000?style=for-the-badge&logo=abletonlive&logoColor=white)](https://github.com/seathasky/Repeat-It) | Ableton Live Extension for applying an effect across every track at once |
 
-## macOS Game Launchers
+---
+
+<p>
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Finder_Icon_macOS_Big_Sur.png" width="60"><br>
+  macOS game launchers
+</p>
+
+| Project | Description |
+| :------ | :---------- |
 
 | Project | Description |
 | :------ | :---------- |
@@ -28,25 +42,31 @@ Open-source developer focused on **macOS utilities**, game addons and mods..
 
 <p>
   <img src="https://images.squarespace-cdn.com/content/v1/603cb2299959d83fcdc26265/1622562696444-8V488N7VH1TP1RA4JAHH/MAM_Web_Logo.png" width="140"><br>
-  <sub>Monsters and Memories mods</sub>
+  Monsters and Memories mods
 </p>
 
 | Project | Description |
 | :------ | :---------- |
 | [![MnM Minimal UI](https://img.shields.io/badge/MnMMinimalUI-MNM_Mod-f97316?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/seathasky/MnM-Minimal-UI) | Minimal UI styling for MnM |
 | [![MnM Render Optimization](https://img.shields.io/badge/MnMRenderOptimization-MNM_Mod-f97316?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/seathasky/MnM-Render-Optimization) | MnM render optimization and FPS improvement |
-| Project | Description |
-| :------ | :---------- |
-| [![MnM Minimal UI](https://img.shields.io/badge/MnMMinimalUI-MNM_Mod-f97316?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/seathasky/MnM-Minimal-UI) | Minimal UI styling for MnM |
-| [![MnM-Render-Optimization](https://img.shields.io/badge/MnMRenderOptimization-MNM_Mod-f97316?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/seathasky/MnM-Render-Optimization) | MmM Render Optimization (FPS boost patch)|
 
-## Final Fantasy XIV - Dalamud Plugins
+---
+
+<p>
+  <img src="https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/logo.png" width="60"><br>
+Final Fantasy XIV - Dalamud Plugins
+</p>
 
 | Project | Description |
 | :------ | :---------- |
 | [![ZoneLevelGuide](https://img.shields.io/badge/ZoneLevelGuide-Dalamud-70a5fd?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTV6Ii8+PC9zdmc+&logoColor=white)](https://github.com/seathasky/ZoneLevelGuide) | Zone level recommendations for FFXIV |
 
-## World of Warcraft — Addons
+---
+
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/archive/e/eb/20171015201103!WoW_icon.svg" width="60"><br>
+World of Warcraft — Addons
+</p>
 
 | Project | Description |
 | :------ | :---------- |

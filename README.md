@@ -32,7 +32,7 @@ Ableton Projects
 
 | Project | Description |
 | :------ | :---------- |
-| [![XIV on Mac](https://img.shields.io/badge/MnM--on--Mac-MacOS-70a5fd?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/seathasky/MnM-on-Mac) | Run Monsters and Memories natively on macOS |
+| [![MnM on Mac](https://img.shields.io/badge/MnM--on--Mac-MacOS-70a5fd?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/seathasky/MnM-on-Mac) | Run Monsters and Memories natively on macOS |
 | [![XIV on Mac](https://img.shields.io/badge/XIV--on--Mac-MacOS-70a5fd?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/marzent/XIV-on-Mac) | Run Final Fantasy XIV natively on macOS 
 
 ---
@@ -44,8 +44,8 @@ Ableton Projects
 
 | Project | Description |
 | :------ | :---------- |
-| [![MnM Minimal UI](https://img.shields.io/badge/MnMMinimalUI-MNM_Mod-f97316?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/seathasky/MnM-Minimal-UI) | Minimal UI styling for MnM |
-| [![MnM Render Optimization](https://img.shields.io/badge/MnMRenderOptimization-MNM_Mod-f97316?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/seathasky/MnM-Render-Optimization) | MnM render optimization and FPS improvement |
+| [![MnM Minimal UI](https://img.shields.io/badge/MnMMinimalUI-MnM-f97316?style=for-the-badge&labelColor=333333)](https://github.com/seathasky/MnM-Minimal-UI) | Minimal UI styling for MnM |
+| [![MnM Render Optimization](https://img.shields.io/badge/MnMRenderOptimization-MnM-f97316?style=for-the-badge&labelColor=333333)](https://github.com/seathasky/MnM-Render-Optimization) | MnM render optimization and FPS improvement |
 
 ---
 

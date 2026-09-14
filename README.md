@@ -32,9 +32,6 @@ Ableton Projects
 
 | Project | Description |
 | :------ | :---------- |
-
-| Project | Description |
-| :------ | :---------- |
 | [![XIV on Mac](https://img.shields.io/badge/MnM--on--Mac-MacOS-70a5fd?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/seathasky/MnM-on-Mac) | Run Monsters and Memories natively on macOS |
 | [![XIV on Mac](https://img.shields.io/badge/XIV--on--Mac-MacOS-70a5fd?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/marzent/XIV-on-Mac) | Run Final Fantasy XIV natively on macOS 
 

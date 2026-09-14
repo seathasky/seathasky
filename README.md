@@ -1,6 +1,6 @@
 # Seathasky Projects
 
-Open-source developer focused on **macOS utilities**, **Final Fantasy XIV plugins**, and **World of Warcraft addons**.
+Open-source developer focused on **macOS utilities**, game addons and mods..
 
 ### Contact & Links
 

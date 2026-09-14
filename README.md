@@ -1,6 +1,4 @@
-<p>
-  <img src="https://www.seathaskymusic.com/images/SeathaskyWB5.png" width="300"><br>
-</p>
+# Seathasky Dev
 
 Open-source developer/audio engineer/music producer focused on **macOS utilities, game addons, mods, and quality-of-life tools**.
 

@@ -4,10 +4,13 @@ Open-source developer/audio engineer/music producer focused on **macOS utilities
 
 ### Contact & Links
 
-[![Website](https://img.shields.io/badge/Website-seathaskymusic.com-blue?style=flat-square)](https://www.seathaskymusic.com/)
-[![SoundCloud](https://img.shields.io/badge/SoundCloud-seathaskycr-orange?style=flat-square)](https://soundcloud.com/seathaskycr)
-[![CurseForge](https://img.shields.io/badge/CurseForge-Projects-orange?style=flat-square)](https://www.curseforge.com/members/seathasky/projects)
-[![Email](https://img.shields.io/badge/Email-seathasky@gmail.com-red?style=flat-square)](mailto:seathasky@gmail.com)
+[![Email](https://img.shields.io/badge/Email-seathasky%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seathasky@gmail.com) <br>
+[![Discord](https://img.shields.io/badge/Discord-SeathaskyDev-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=555555)](https://discord.gg/9w6ZdaksDX) <br>
+[![Website](https://img.shields.io/badge/Website-seathaskymusic.com-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.seathaskymusic.com/)<br>
+[![SoundCloud](https://img.shields.io/badge/SoundCloud-seathaskycr-orange?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/seathaskycr)<br>
+[![CurseForge](https://img.shields.io/badge/CurseForge-Projects-orange?style=for-the-badge&logo=curseforge&logoColor=white)](https://www.curseforge.com/members/seathasky/projects)
+<br>
+
 
 [![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/seathasky)
 

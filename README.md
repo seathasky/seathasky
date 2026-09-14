@@ -24,8 +24,17 @@ Open-source developer focused on **macOS utilities**, game addons and mods..
 | [![XIV on Mac](https://img.shields.io/badge/MnM--on--Mac-MacOS-70a5fd?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/seathasky/MnM-on-Mac) | Run Monsters and Memories natively on macOS |
 | [![XIV on Mac](https://img.shields.io/badge/XIV--on--Mac-MacOS-70a5fd?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/marzent/XIV-on-Mac) | Run Final Fantasy XIV natively on macOS 
 
-## Monsters and Memories - Mods
+---
 
+<p>
+  <img src="https://images.squarespace-cdn.com/content/v1/603cb2299959d83fcdc26265/1622562696444-8V488N7VH1TP1RA4JAHH/MAM_Web_Logo.png" width="140"><br>
+  <sub>Monsters and Memories mods</sub>
+</p>
+
+| Project | Description |
+| :------ | :---------- |
+| [![MnM Minimal UI](https://img.shields.io/badge/MnMMinimalUI-MNM_Mod-f97316?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/seathasky/MnM-Minimal-UI) | Minimal UI styling for MnM |
+| [![MnM Render Optimization](https://img.shields.io/badge/MnMRenderOptimization-MNM_Mod-f97316?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/seathasky/MnM-Render-Optimization) | MnM render optimization and FPS improvement |
 | Project | Description |
 | :------ | :---------- |
 | [![MnM Minimal UI](https://img.shields.io/badge/MnMMinimalUI-MNM_Mod-f97316?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/seathasky/MnM-Minimal-UI) | Minimal UI styling for MnM |

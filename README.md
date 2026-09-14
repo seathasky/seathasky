@@ -29,6 +29,7 @@ Open-source developer focused on **macOS utilities**, game addons and mods..
 | Project | Description |
 | :------ | :---------- |
 | [![MnM Minimal UI](https://img.shields.io/badge/MnMMinimalUI-MNM_Mod-f97316?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/seathasky/MnM-Minimal-UI) | Minimal UI styling for MnM |
+| [![MnM-Render-Optimization](https://img.shields.io/badge/MnMRenderOptimization-MNM_Mod-f97316?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/seathasky/MnM-Render-Optimization) | MmM Render Optimization (FPS boost patch)|
 
 ## Final Fantasy XIV - Dalamud Plugins
 

@@ -39,19 +39,6 @@ Open-source developer/audio engineer/music producer focused on **macOS utilities
 ---
 
 <p>
-  <img src="https://images.squarespace-cdn.com/content/v1/603cb2299959d83fcdc26265/1622562696444-8V488N7VH1TP1RA4JAHH/MAM_Web_Logo.png" width="140"><br>
-</p>
-
-### Monsters & Memories Mods
-
-| Project | Description |
-| :------ | :---------- |
-| [![MnM Minimal UI](https://img.shields.io/badge/MnMMinimalUI-MnM-f97316?style=for-the-badge&labelColor=333333)](https://github.com/seathasky/MnM-Minimal-UI) | Minimal UI styling and interface cleanup for MnM |
-| [![MnM Render Optimization](https://img.shields.io/badge/MnMRenderOptimization-MnM-f97316?style=for-the-badge&labelColor=333333)](https://github.com/seathasky/MnM-Render-Optimization) | Render optimizations aimed at improving performance and FPS |
-
----
-
-<p>
   <img src="https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/logo.png" width="60"><br>
 </p>
 

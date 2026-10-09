@@ -14,18 +14,6 @@ Open-source developer/audio engineer/music producer focused on **macOS utilities
 ---
 
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Ableton_Live_logo.png" width="60"><br>
-</p>
-
-### Ableton Live Projects
-
-| Project | Description |
-| :------ | :---------- |
-| [![Repeat-It](https://img.shields.io/badge/Repeat--It-Ableton_Project-000000?style=for-the-badge&logo=abletonlive&logoColor=white)](https://github.com/seathasky/Repeat-It) | Ableton Live extension for applying an effect across every track at once |
-
----
-
-<p>
   <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Finder_Icon_macOS_Big_Sur.png" width="60"><br>
 </p>
 
@@ -35,18 +23,6 @@ Open-source developer/audio engineer/music producer focused on **macOS utilities
 | :------ | :---------- |
 | [![MnM on Mac](https://img.shields.io/badge/MnM--on--Mac-MacOS-70a5fd?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/seathasky/MnM-on-Mac) | Run Monsters & Memories natively on macOS |
 | [![XIV on Mac](https://img.shields.io/badge/XIV--on--Mac-MacOS-70a5fd?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/marzent/XIV-on-Mac) | Run Final Fantasy XIV natively on macOS |
-
----
-
-<p>
-  <img src="https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/logo.png" width="60"><br>
-</p>
-
-### Final Fantasy XIV — Dalamud Plugins
-
-| Project | Description |
-| :------ | :---------- |
-| [![ZoneLevelGuide](https://img.shields.io/badge/ZoneLevelGuide-Dalamud-70a5fd?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTV6Ii8+PC9zdmc+&logoColor=white)](https://github.com/seathasky/ZoneLevelGuide) | Zone-level recommendations and progression guidance for FFXIV |
 
 ---
 
@@ -72,6 +48,32 @@ Open-source developer/audio engineer/music producer focused on **macOS utilities
 | [![MBBe](https://img.shields.io/badge/MBBe-WoW_Addon-f7768e?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/seathasky/MBBe) | Enhancement suite for MinimapButtonButton |
 
 ---
+
+<p>
+  <img src="https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/logo.png" width="60"><br>
+</p>
+
+### Final Fantasy XIV — Dalamud Plugins
+
+| Project | Description |
+| :------ | :---------- |
+| [![ZoneLevelGuide](https://img.shields.io/badge/ZoneLevelGuide-Dalamud-70a5fd?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTV6Ii8+PC9zdmc+&logoColor=white)](https://github.com/seathasky/ZoneLevelGuide) | Zone-level recommendations and progression guidance for FFXIV |
+
+
+---
+
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Ableton_Live_logo.png" width="60"><br>
+</p>
+
+### Ableton Live Projects
+
+| Project | Description |
+| :------ | :---------- |
+| [![Repeat-It](https://img.shields.io/badge/Repeat--It-Ableton_Project-000000?style=for-the-badge&logo=abletonlive&logoColor=white)](https://github.com/seathasky/Repeat-It) | Ableton Live extension for applying an effect across every track at once |
+
+---
+
 
 ### Legacy, Experimental & Discontinued WoW Addons
 

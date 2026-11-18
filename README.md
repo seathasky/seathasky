@@ -4,7 +4,7 @@ Open-source developer/audio engineer/music producer focused on **macOS utilities
 
 ## Contact & Links
 
-[Discord](https://discord.gg/9w6ZdaksDX) · [CurseForge](https://www.curseforge.com/members/seathasky/projects) · [Support me on Ko-fi](https://ko-fi.com/seathasky)
+[Website](https://www.seathaskymusic.com/) · [Discord](https://discord.gg/9w6ZdaksDX) · [CurseForge](https://www.curseforge.com/members/seathasky/projects) · [Support me on Ko-fi](https://ko-fi.com/seathasky)
 
 ## macOS Game Launchers
 

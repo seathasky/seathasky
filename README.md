@@ -11,7 +11,7 @@ Open-source developer/audio engineer/music producer focused on **macOS utilities
 - **[MnM on Mac](https://github.com/seathasky/MnM-on-Mac)** · Run Monsters & Memories natively on macOS
 - **[XIV on Mac](https://github.com/marzent/XIV-on-Mac)** · Run Final Fantasy XIV natively on macOS
 
-## World of Warcraft — Addons
+## World of Warcraft Addons
 
 - **[Matt's Minimal Frames](https://github.com/seathasky/MattMinimalFrames)** · Minimal, customizable unit frame styling
 - **[BabyAuras](https://github.com/seathasky/BabyAuras)** · Enhancements, alerts, and customization for Blizzard's Cooldown Manager
@@ -26,7 +26,7 @@ Open-source developer/audio engineer/music producer focused on **macOS utilities
 - **[Better Chat Sounds](https://github.com/seathasky/Matts-Better-Chat-Sounds)** · Improved and customizable chat notification sounds
 - **[MBBe](https://github.com/seathasky/MBBe)** · Enhancement suite for MinimapButtonButton
 
-## Final Fantasy XIV — Dalamud Plugins
+## Final Fantasy XIV Dalamud Plugins
 
 - **[ZoneLevelGuide](https://github.com/seathasky/ZoneLevelGuide)** · Zone-level recommendations and progression guidance for FFXIV
 

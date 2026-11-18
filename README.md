@@ -25,6 +25,8 @@ Open-source developer/audio engineer/music producer focused on **macOS utilities
 - **[MinimalMiniMap](https://github.com/seathasky/MinimalMiniMap)** · Clean, minimal styling for the default minimap
 - **[Better Chat Sounds](https://github.com/seathasky/Matts-Better-Chat-Sounds)** · Improved and customizable chat notification sounds
 - **[MBBe](https://github.com/seathasky/MBBe)** · Enhancement suite for MinimapButtonButton
+- **[Bagnon Gear Sets](https://github.com/seathasky/Bagnon_GearSets)** · Equipment-set sections, item labels, and reagent bag separation for Bagnon
+- **[Lust Is Up](https://www.curseforge.com/wow/addons/lust-is-up)** · Bloodlust and Drums cooldown reminders for Mythic+ and raids
 
 ## Final Fantasy XIV Dalamud Plugins
 
